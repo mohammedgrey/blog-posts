@@ -1,0 +1,30 @@
+#posts {
+  padding-top: $sp-unit * 2;
+}
+
+.post {
+  border-top: 3px solid $color-accent;
+  padding: $sp-unit;
+  display: flex;
+  flex-direction: column;
+}
+
+.post-content {
+  padding-top: $sp-unit * 2;
+  padding-inline: $sp-unit;
+}
+
+.post-body {
+  flex-grow: 1;
+  border-block: 1px dotted $color-mid-light;
+}
+
+.post-header {
+  padding-block: $sp-unit;
+  text-transform: uppercase;
+  margin-bottom: 0;
+}
+
+.post-footer {
+  text-transform: capitalize;
+}
