@@ -4,9 +4,9 @@
 
 ## How to Run Locally
 
-1- Clone the repository.
-2- Run `yarn install` or `npm install` to get the dependencies.
-3- Run `yarn run dev` or `npm run dev` to start the project locally.
+- Clone the repository.
+- Run `yarn install` or `npm install` to get the dependencies.
+- Run `yarn run dev` or `npm run dev` to start the project locally.
 
 ## Project Outcome
 
